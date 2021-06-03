@@ -1,0 +1,9 @@
+#safari-warning{
+	display: block;
+	width: 100%;
+	padding:  20px;
+	z-index: 10000;
+	position: fixed;
+	bottom:  0;
+	background-color: red;
+}
